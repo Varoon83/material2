@@ -40,7 +40,7 @@ High level stuff planned for Q4 2017 (October - December):
 * cdk/dialog
 * Switch build to bazel
 * Overlay positioning improvements
-
+* VC
 
 #### Available features
 
